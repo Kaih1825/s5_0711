@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">s5_0711</string>
+    <string-array name="country">
+        <item>臺灣</item>
+        <item>US</item>
+    </string-array>
+    <string name="reg">Register</string>
+    <string name="name">Name</string>
+    <string name="wd">Password</string>
+    <string name="country">Country</string>
+    <string name="changeinfo">Change Info</string>
+</resources>
